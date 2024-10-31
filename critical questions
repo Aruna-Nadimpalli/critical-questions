@@ -1,0 +1,16 @@
+Product rating system:
+How will the system handle invalid or incomplete ratings eg: A rating without feed back or feed back without a rating?. will users be able to to edit or delete their ratings and feed back 
+after submission? If so , how will this affect the overall rating of the product? How will the system handle multiple ratings from the same user on the same product? will it over write
+previous ratings or will all the ratings be aggregated?
+
+Age verification for alcoholic products:
+  What measures are in place to prevent users from by passing age verification eg:inputting the false age?
+  is the age verification process required everytime a user navigates to the alcoholic products section, or is it a one time verification stored in the user's section or account?
+  What happens if a user does not meet the age requirement? will they be denied from browsing or purchasing other products in the same session.
+
+
+
+  Shipping cost changes:
+  How is the free shipping threshold amount calculated eg before or after discounts, taxes, and other fees?
+  will there be clear messaging in the cart or checkout process informing users how much more they need to spend to qualify for free shipping?
+    are there any exceptions or exclusions to the free shipping offer , such as certain regions or products that always incur shipping fees?
